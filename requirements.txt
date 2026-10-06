@@ -1,0 +1,3 @@
+pandas>=2.0
+pyarrow>=14.0   # only needed if the notebook downloads the raw data itself
+jupyterlab>=4.0
