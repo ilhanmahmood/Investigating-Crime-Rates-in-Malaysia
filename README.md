@@ -32,7 +32,7 @@ pip install -r requirements.txt
 jupyter lab clean_crime_data.ipynb
 ```
 
-Run all cells from top to bottom. If `data/raw/crime_district.csv` is missing, the notebook downloads the latest version from data.gov.my.
+Run all cells from top to bottom, and unzip the data.zip file to access its folders. If `data/raw/crime_district.csv` is missing, the notebook downloads the latest version from data.gov.my.
 
 ## What the cleaning does
 
